@@ -1,0 +1,20 @@
+/* *******************
+*
+* Color Guide
+*
+* black = #231F20
+* orange = #F5851F
+* white = #FFFFFF
+* grey = #58585A
+*
+******************* */
+
+
+
+.bgblack {
+	background-color: #231F20;
+}
+
+.textwhite {
+	color: #fff;
+}
