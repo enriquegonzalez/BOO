@@ -43,7 +43,25 @@
 	font-size: 1.5em;
 }
 
-.panel {
+/*.panel {
 	background-color: #58585A;
 	border-color: #58585A;
+}*/
+
+.panel.radius {
+	-webkit-border-radius: 7px;
+			border-radius: 7px;
+}
+
+.alert {
+	color: #cc0000;
+	font-weight: bold;
+}
+
+.bgorange {
+	background-color: #F5851F;
+}
+
+.borderpink {
+	border-color: #f79d4b;
 }
