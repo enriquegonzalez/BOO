@@ -18,3 +18,32 @@
 .textwhite {
 	color: #fff;
 }
+
+.textorange {
+	color: #F5851F;
+}
+
+.textlightgrey {
+	color: #ccc;
+}
+
+.smallcaps {
+	font-variant:small-caps;
+}
+
+.allcaps {
+	text-transform: uppercase;
+}
+
+.date {
+	font-size: 2.5em;
+}
+
+.time {
+	font-size: 1.5em;
+}
+
+.panel {
+	background-color: #58585A;
+	border-color: #58585A;
+}
