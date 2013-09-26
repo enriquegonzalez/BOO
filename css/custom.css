@@ -16,7 +16,7 @@
 }
 
 .bgtree {
-	background-image: url(../img/bgtree.png);
+	background-image: url(../img/bgtree2.png);
 	background-repeat:no-repeat;
 }
 
@@ -48,8 +48,8 @@
 	font-size: 1.5em;
 }
 
-/*.panel {
-	background-color: #58585A;
+ /*.panel {
+	background-color: #F5851F;
 	border-color: #58585A;
 }*/
 
@@ -67,6 +67,6 @@
 	background-color: #F5851F;
 }
 
-.borderpink {
+.borderorange {
 	border-color: #f79d4b;
 }
