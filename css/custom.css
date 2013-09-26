@@ -43,6 +43,14 @@
 	font-size: 2.3em;
 }
 
+.textmedium {
+	font-size: 2em;
+}
+
+.textsmall {
+	font-size: 1.2em;
+}
+
 h1 {
 	line-height: 1;
 	margin-bottom: 0;
@@ -55,6 +63,10 @@ h1 {
 
 .font-fleurie {
 	font-family: Fleurie Plus;
+}
+
+.font-univers {
+	font-family: Univers;
 }
 
 .textwhite {
@@ -77,18 +89,10 @@ h1 {
 	text-transform: uppercase;
 }
 
-.date {
-	font-size: 2.5em;
+.panel {
+	background-color: #ccc;
+	border-color: #ccc;
 }
-
-.time {
-	font-size: 1.5em;
-}
-
- /*.panel {
-	background-color: #F5851F;
-	border-color: #58585A;
-}*/
 
 .panel.radius {
 	-webkit-border-radius: 7px;
@@ -108,7 +112,15 @@ h1 {
 	border-color: #f79d4b;
 }
 
+.button:hover {
+	background-color: #f79d4b;
+}
+
 .portrait {
 	border-radius: 7px;
 	display: inline;
 }	
+
+.leftspacer {
+	padding-left: 5%;
+}
