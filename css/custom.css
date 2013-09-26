@@ -10,14 +10,33 @@
 ******************* */
 
 
+@font-face {
+    font-family: Univers;
+    src: url('../fonts/UniversLTStd-Cn.otf');
+}
+
+@font-face {
+    font-family: Fleurie Plus;
+    src: url(../fonts/fleurieplus.ttf);
+}
+
+@font-face {
+    font-family: Bureau Agency;
+    src: url(../fonts/BureaAge.ttf);
+}
 
 .bgblack {
-	background-color: #231F20;
+	background-color: #312f30;
 }
 
 .bgtree {
 	background-image: url(../img/bgtree2.png);
 	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+.font-bureau {
+	font-family: Fleurie Plus;
 }
 
 .textwhite {
@@ -70,3 +89,8 @@
 .borderorange {
 	border-color: #f79d4b;
 }
+
+.portrait {
+	border-radius: 7px;
+	display: inline;
+}	
