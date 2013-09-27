@@ -35,6 +35,10 @@
 	background-size: cover;
 }
 
+p {
+	font-size: 1.1em;
+}
+
 .textgiant {
 	font-size: 3em;
 }
@@ -62,12 +66,16 @@
 h1 {
 	line-height: 1;
 	margin-bottom: 0;
-	margin-top: 5%;
+}
+
+h2 {
+	position: relative;
+	top: -30px;
 }
 
 .spacecloser {
-	line-height: 1;
 	margin-bottom: 0;
+	padding-bottom: 0;
 }
 
 .font-bureau {
@@ -145,17 +153,21 @@ ul {
 }
 
 .link {
-	color: #F5851F;
+	color: #50A6C2;
 }
 
 .link:hover {
-	color: #f79d4b;
-	border-bottom: 1px dashed;
+	color: #7fd3ed;
+}
+
+.link:before {
+	content: "> ";
 }
 
 .chmlogo {
 	margin-top: 3%;
-	width: 40%;
+	margin-bottom: 2%;
+	width: 30%;
 }
 
 .sponsorlogo {
