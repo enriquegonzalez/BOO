@@ -158,6 +158,8 @@ ul {
 	width: 40%;
 }
 
-/*.sponsorlogo {
-	width: 80%;
-}*/
+.sponsorlogo {
+	margin-top: 2%;
+	margin-bottom: 6%;
+	width: 45%;
+}
