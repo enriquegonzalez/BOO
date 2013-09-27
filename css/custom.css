@@ -104,12 +104,14 @@ h1 {
 
 .panel {
 	background-color: #ccc;
-	border-color: #ccc;
+	background-color: rgba(204, 204, 204, 0.7);
+
 }
 
 .panel.radius {
 	-webkit-border-radius: 7px;
 			border-radius: 7px;
+			border: none;
 }
 
 .alert {
