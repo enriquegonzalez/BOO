@@ -65,6 +65,11 @@ h1 {
 	margin-top: 5%;
 }
 
+.spacecloser {
+	line-height: 1;
+	margin-bottom: 0;
+}
+
 .font-bureau {
 	font-family: Bureau Agency;
 }
