@@ -165,9 +165,12 @@ ul {
 }
 
 .chmlogo {
+	width: 50%;
+}
+
+.row.l-topbar {
 	margin-top: 3%;
 	margin-bottom: 2%;
-	width: 30%;
 }
 
 .sponsorlogo {
@@ -188,6 +191,11 @@ footer {
 	position: relative;
 	top: -50px;
 }
+
+/*.sharethis {
+	margin-top: 3%;
+	margin-bottom: 2%;
+}*/
 
 @media all and (max-width: 630px) {
 	.chmlogo {
