@@ -67,15 +67,15 @@ h2 {
 }
 
 .font-bureau {
-	font-family: Bureau Agency;
+	font-family: Bureau Agency, sans-serif;
 }
 
 .font-fleurie {
-	font-family: Fleurie Plus;
+	font-family: Fleurie Plus, cursive;
 }
 
 .font-univers {
-	font-family: Univers;
+	font-family: Univers, Arial, Helvetica, sans-serif;
 }
 
 .textwhite {
