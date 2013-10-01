@@ -230,6 +230,6 @@ footer {
 
 @media all and (max-width: 320px) {
 	.headlinetext {
-		font-size: 1.8em;
+		font-size: 1.5em;
 	}
 }
