@@ -218,3 +218,23 @@ footer {
 @media all and (max-width: 320px) {
 
 }
+
+@media all and (max-width: 410px) {
+	.headlinetext {
+		font-size: 2em;
+	}
+}
+
+@media all and (max-width: 410px) {
+	h2 {
+		position: relative;
+		top: -10px;
+		}
+}
+
+@media all and (max-width: 410px) {
+	.datespace {
+		position: relative;
+		top: -30px;
+	}
+}
