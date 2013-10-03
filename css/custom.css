@@ -184,6 +184,11 @@ footer {
 	float: right;
 }
 
+/*	STATE 	*/
+.is-italic {
+	font-style: italic;
+}
+
 /*	MEDIA QUERIES 	*/
 @media all and (max-width: 965px) {
 
@@ -217,6 +222,10 @@ footer {
 		position: relative;
 		top: -10px;
 		}
+
+	.chmlogo {
+		margin-bottom: 5%;
+	}
 
 	.datespace {
 		position: relative;
